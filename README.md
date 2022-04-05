@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp; I'm an advanced biomedical engineer student at Favaloro University and a software developer. \
 💻 &nbsp; I'm currently working as a teacher's assistant at my university teaching programming languages such as C, C++, and C#.\
-🎓&nbsp; I'm developing a database for Pulmonary Artery Hypertension (PAH) at Fundación Favaloro as part of my thesis in conjunction with @JulietaDiMarco.\
+🎓&nbsp; I'm developing a database for Pulmonary Arterial Hypertension (PAH) at Fundación Favaloro as part of my thesis in conjunction with @JulietaDiMarco.\
 🌱 &nbsp; I'm on course for learning more about Artificial Intelligence, App and Web Developmen, and Computer Vision.\
 ✉️ &nbsp; brunocruzfranchi@gmail.com \
 📄 &nbsp; My [Resume]() for more details about work experience.
