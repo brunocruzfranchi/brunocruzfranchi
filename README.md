@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### 📋 Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/brunocruzfranchi/SignLanguage_AI)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocruzfranchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
