@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! 
+## 👋 Hi there! 
 ![version :05.04.2022](https://img.shields.io/badge/version-05.04.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=brunocruzfranchi&color=blue)&nbsp;
 [![GitHub Brunocruzfranchi](https://img.shields.io/github/followers/brunocruzfranchi?label=follow&style=social)](https://github.com/brunocruzfranchi)&nbsp;
 
-### 🤓 About me
+## 🤓 About me
 
 💡 &nbsp; I'm an advanced biomedical engineer student at Favaloro University and a software developer. \
 💻 &nbsp; I'm currently working as a teacher's assistant at my university teaching programming languages such as C, C++, and C#.\
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ✉️ &nbsp; brunocruzfranchi@gmail.com \
 📄 &nbsp; My [Resume]() for more details about work experience.
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
@@ -44,19 +44,21 @@ Here are some ideas to get you started:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?&style=flat&logo=Plotly&logoColor=white)&nbsp;
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+## 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/bruno-cf/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:brunocruzfranchi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-### 🎶 &nbsp; Music:
+## 📋 Projects:
+### Deep Learning:
+[![SignLanguage](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/brunocruzfranchi/SignLanguage_AI)
+
+### Machine Learning:
+[![Student-ICD](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Student-ICD)](https://github.com/brunocruzfranchi/Student-ICD)
+
+
+
+## 🎶 &nbsp; Music:
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=flat&logo=tidal&logoColor=black)
-
-### 📋 Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/brunocruzfranchi/SignLanguage_AI)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocruzfranchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
