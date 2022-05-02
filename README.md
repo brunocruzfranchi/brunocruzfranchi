@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 [![SignLanguage](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/brunocruzfranchi/SignLanguage_AI)
 
 ### Machine Learning:
-[![Student-ICD](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Student-ICD)](https://github.com/brunocruzfranchi/Student-ICD)
-
-
+[![Student ICD](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Student-ICD)](https://github.com/brunocruzfranchi/Student-ICD)
+[![Cardiovascular Disease](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Cardiovascular_Disease)](https://github.com/brunocruzfranchi/Cardiovascular_Disease)
 
 ## 🎶 &nbsp; Music:
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)
+
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=flat&logo=tidal&logoColor=black)
