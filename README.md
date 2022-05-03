@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![SignLanguage](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=SignLanguage_AI)](https://github.com/brunocruzfranchi/SignLanguage_AI)
 
 ### Machine Learning:
-[![Student ICD](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Student-ICD)](https://github.com/brunocruzfranchi/Student-ICD)
+[![Student_ICD](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Student-ICD)](https://github.com/brunocruzfranchi/Student-ICD)
 [![Cardiovascular Disease](https://github-readme-stats.vercel.app/api/pin/?username=brunocruzfranchi&repo=Cardiovascular_Disease)](https://github.com/brunocruzfranchi/Cardiovascular_Disease)
 
 ## 🎶 &nbsp; Music:
