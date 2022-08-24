@@ -1,29 +1,13 @@
-<!--
-**brunocruzfranchi/brunocruzfranchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👋 Hi there! 
-![version :05.04.2022](https://img.shields.io/badge/version-05.04.2022-informational) &nbsp;
+![version :05.04.2022](https://img.shields.io/badge/version-05.04.2022-informational)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=brunocruzfranchi&color=blue)&nbsp;
 [![GitHub Brunocruzfranchi](https://img.shields.io/github/followers/brunocruzfranchi?label=follow&style=social)](https://github.com/brunocruzfranchi)&nbsp;
 
 ## 🤓 About me
 
-💡 &nbsp; I'm an advanced biomedical engineer student at Favaloro University and a software developer. \
-💻 &nbsp; I'm currently working as a teacher's assistant at my university teaching programming languages such as C, C++, and C#.\
-🎓&nbsp; I'm developing a database for Pulmonary Arterial Hypertension (PAH) at Fundación Favaloro as part of my thesis in conjunction with @JulietaDiMarco.\
-🌱 &nbsp; I'm on course for learning more about Artificial Intelligence, App and Web Development, and Computer Vision.\
+💡 &nbsp; I'm an advanced biomedical engineer student at Favaloro University and working as an AI Engineer at Hospital Italiano. \
+💻 &nbsp; Currently working as a teacher's assistant at my university teaching programming languages such as C, C++, and C#.\
+🎓 &nbsp; Developing a database for Pulmonary Arterial Hypertension (PAH) at Fundación Favaloro as part of my thesis in conjunction with @JulietaDiMarco.\
 ✉️ &nbsp; brunocruzfranchi@gmail.com \
 📄 &nbsp; My [Resume]() for more details about work experience.
 
