@@ -5,11 +5,9 @@
 
 ## 🤓 About me
 
-💡 &nbsp; I'm an advanced biomedical engineer student at Favaloro University and working as an AI Engineer at Hospital Italiano. \
-💻 &nbsp; Currently working as a teacher's assistant at my university teaching programming languages such as C, C++, and C#.\
-🎓 &nbsp; Developing a database for Pulmonary Arterial Hypertension (PAH) at Fundación Favaloro as part of my thesis in conjunction with @JulietaDiMarco.\
+💡 &nbsp; I'm a biomedical engineer student at Favaloro University and working as an AI Engineer at Hospital Italiano. \
 ✉️ &nbsp; brunocruzfranchi@gmail.com \
-📄 &nbsp; My [Resume]() for more details about work experience.
+📄 &nbsp; My [Resume](https://drive.google.com/file/d/1Bqkkg0Wb6ZeLvevJtEEWshVI1KtvBu2e/view?usp=sharing) for more details about work experience.
 
 ## 🛠 &nbsp;Tech Stack
 
